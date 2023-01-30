@@ -3,39 +3,39 @@
   
      
 
-      "banner_type_1":"admob",
-      "inter_type_1":"admob",
+      "banner_type_1":"yandex",
+      "inter_type_1":"yandex",
       "inter_or_reward_1":"inter",
-      "native_type_1":"admob",
-      "reward_type_1":"admob",
+      "native_type_1":"yandex",
+      "reward_type_1":"yandex",
       "native_or_mrec_1":"native",
 
-      "banner_type_2":"admob",
-      "inter_type_2":"admob",
+      "banner_type_2":"yandex",
+      "inter_type_2":"yandex",
       "inter_or_reward_2":"inter",
-      "native_type_2":"admob",
-      "reward_type_2":"admob",
+      "native_type_2":"yandex",
+      "reward_type_2":"yandex",
       "native_or_mrec_2":"native",
 
-     "banner_type_3":"admob",
-      "inter_type_3":"admob",
+     "banner_type_3":"yandex",
+      "inter_type_3":"yandex",
       "inter_or_reward_3":"inter",
-      "native_type_3":"admob",
-      "reward_type_3":"admob",
+      "native_type_3":"yandex",
+      "reward_type_3":"yandex",
       "native_or_mrec_3":"native",
 
-      "banner_type_4":"admob",
-      "inter_type_4":"admob",
+      "banner_type_4":"yandex",
+      "inter_type_4":"yandex",
       "inter_or_reward_4":"inter",
-      "native_type_4":"admob",
-      "reward_type_4":"admob",
+      "native_type_4":"yandex",
+      "reward_type_4":"yandex",
       "native_or_mrec_4":"native",
 
-       "banner_type_5":"admob",
-      "inter_type_5":"admob",
+       "banner_type_5":"yandex",
+      "inter_type_5":"yandex",
       "inter_or_reward_5":"inter",
-      "native_type_5":"admob",
-      "reward_type_5":"admob",
+      "native_type_5":"yandex",
+      "reward_type_5":"yandex",
       "native_or_mrec_5":"native",
 
      
@@ -46,37 +46,37 @@
 
      
 
-      "banner_id_1":"ca-app-pub-3940256099942544/6300978111",
-      "interstitial_id_1":"ca-app-pub-3940256099942544/1033173712",
-      "reward_id_1":"ca-app-pub-3940256099942544/5354046379",
+      "banner_id_1":"R-M-2173766-1",
+      "interstitial_id_1":"R-M-2173766-3",
+      "reward_id_1":"R-M-2173766-4",
       "mrec_id_1":"ca-app-pub-3940256099942544/2247696110",
-      "native_id_1":"ca-app-pub-3940256099942544/2247696110",
+      "native_id_1":"R-M-2173766-2",
     
 
-      "banner_id_2":"ca-app-pub-3940256099942544/6300978111",
-      "interstitial_id_2":"ca-app-pub-3940256099942544/1033173712",
-      "reward_id_2":"ca-app-pub-3940256099942544/5354046379",
+      "banner_id_2":"R-M-2173766-1",
+      "interstitial_id_2":"R-M-2173766-3",
+      "reward_id_2":"R-M-2173766-4",
       "mrec_id_2":"ca-app-pub-3940256099942544/2247696110",
-      "native_id_2":"ca-app-pub-3940256099942544/2247696110",
+      "native_id_2":"R-M-2173766-2",
     
-      "banner_id_3":"ca-app-pub-3940256099942544/6300978111",
-      "interstitial_id_3":"ca-app-pub-3940256099942544/1033173712",
-      "reward_id_3":"ca-app-pub-3940256099942544/5354046379",
+      "banner_id_3":"R-M-2173766-1",
+      "interstitial_id_3":"R-M-2173766-3",
+      "reward_id_3":"R-M-2173766-4",
       "mrec_id_3":"ca-app-pub-3940256099942544/2247696110",
-      "native_id_3":"ca-app-pub-3940256099942544/2247696110",
+      "native_id_3":"R-M-2173766-2",
     
-      "banner_id_4":"ca-app-pub-3940256099942544/6300978111",
-      "interstitial_id_4":"ca-app-pub-3940256099942544/1033173712",
-      "reward_id_4":"ca-app-pub-3940256099942544/5354046379",
+      "banner_id_4":"R-M-2173766-1",
+      "interstitial_id_4":"R-M-2173766-3",
+      "reward_id_4":"R-M-2173766-4",
       "mrec_id_4":"ca-app-pub-3940256099942544/2247696110",
-      "native_id_4":"ca-app-pub-3940256099942544/2247696110",
+      "native_id_4":"R-M-2173766-2",
     
 
-     "banner_id_5":"ca-app-pub-3940256099942544/6300978111",
-      "interstitial_id_5":"ca-app-pub-3940256099942544/1033173712",
-      "reward_id_5":"ca-app-pub-3940256099942544/5354046379",
+     "banner_id_5":"R-M-2173766-1",
+      "interstitial_id_5":"R-M-2173766-3",
+      "reward_id_5":"R-M-2173766-4",
       "mrec_id_5":"ca-app-pub-3940256099942544/2247696110",
-      "native_id_5":"ca-app-pub-3940256099942544/2247696110"
+      "native_id_5":"R-M-2173766-2"
     
   
     },
